@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TP4_Fragement</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Premier Fragement</string>
+    <string name="second_fragment_label">Deuxieme Fragement</string>
+    <string name="next">Prochain Fragement</string>
+    <string name="previous">Precedent Fragement </string>
+
+    <string name="hello_first_fragment">Voici Le Premier Fragement </string>
+    <string name="hello_second_fragment">Et le deuxieme Fragement. Arg: %1$s</string>
+    <string name="drawer_open" />
+    <string name="drawer_close" />
+</resources>
